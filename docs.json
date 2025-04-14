@@ -1,4 +1,19 @@
 {
+  "name": "BoxControl",
+  "sections": [
+    {
+      "name": "Comece por aqui",
+      "page": "essentials/1-comecar-boxcontrol"
+    },
+    {
+      "name": "Navegação Geral",
+      "page": "essentials/2-navegacao"
+    },
+    ...
+  ]
+}
+
+{
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Mint Starter Kit",

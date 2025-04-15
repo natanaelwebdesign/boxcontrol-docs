@@ -61,7 +61,7 @@
             "group": "Perguntas Frequentes",
             "pages": [
               {
-                "page": "faq/perguntas-frequentes",
+                "page": "essentials/faq/perguntas-frequentes",
                 "label": "Perguntas Frequentes"
               }
             ]

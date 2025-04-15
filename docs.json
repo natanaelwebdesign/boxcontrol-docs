@@ -6,7 +6,7 @@
     "primary": "#F4D03F",
     "light": "#F7D146",
     "dark": "#292929"
-   },
+  },
   "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
@@ -14,38 +14,11 @@
         "tab": "Guia",
         "groups": [
           {
-            "group": "Documentação",
-            "pages": [
-              {
-                "page": "essentials/introducao1",
-                "label": "Entenda o que é o BoxControl"
-              },
-              {
-                "page": "essentials/navegacao1",
-                "label": "Navegação Geral"
-              }
-            ]
-          },
-          {
-            "group": "Módulos Essenciais",
+            "group": "Clientes TESTE",
             "pages": [
               {
                 "page": "essentials/modulos/clientes",
-                "label": "Clientes"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Tire suas dúvidas",
-        "groups": [
-          {
-            "group": "Perguntas Frequentes",
-            "pages": [
-              {
-                "page": "essentials/faq/perguntas-frequentes",
-                "label": "Perguntas Frequentes"
+                "label": "Clientes TESTE"
               }
             ]
           }

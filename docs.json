@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "BoxControl",
   "colors": {
-    "primary": "#F4D03F",
+    "primary": "#F5B93F",
     "light": "#F7D146",
     "dark": "#292929"
   },
@@ -24,25 +24,36 @@
             "group": "Módulos Essenciais",
             "pages": [
               {
-                "page": "essentials/clientes",
+                "page": "essentials/modulos/clientes",
                 "label": "Clientes",
                 "icon": "users"
               },
               {
-                "page": "essentials/produtos",
+                "page": "essentials/modulos/produtos",
                 "label": "Produtos",
                 "icon": "package"
               },
               {
-                "page": "essentials/creditos",
+                "page": "essentials/modulos/creditos",
                 "label": "Créditos",
                 "icon": "dollar-sign"
               },
               {
-                "page": "essentials/loja",
+                "page": "essentials/modulos/loja",
                 "label": "Loja",
                 "icon": "shopping-cart"
               }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tire suas dúvidas",
+        "groups": [
+          {
+            "group": "Perguntas Frequentes",
+            "pages": [
+              "faq/perguntas-frequentes"
             ]
           }
         ]

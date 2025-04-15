@@ -14,12 +14,10 @@
         "tab": "Guia",
         "groups": [
           {
-            "group": "Teste",
+            "group": "Documentação",
             "pages": [
-              {
-                "page": "essentials/teste",
-                "label": "Página de Teste"
-              }
+              "essentials/introducao1",
+              "essentials/navegacao1"
             ]
           }
         ]

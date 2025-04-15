@@ -17,8 +17,14 @@
           {
             "group": "Comece por aqui",
             "pages": [
-              "essentials/entenda-o-que-e-o-boxcontrol",
-              "essentials/navegacao-geral-do-sistema"
+              {
+                "page": "essentials/entenda-o-que-e-o-boxcontrol",
+                "label": "Entenda o que é o BoxControl"
+              },
+              {
+                "page": "essentials/navegacao-geral-do-sistema",
+                "label": "Navegação Geral"
+              }
             ]
           },
           {
@@ -54,7 +60,10 @@
           {
             "group": "Perguntas Frequentes",
             "pages": [
-              "essentials/faq/perguntas-frequentes"
+              {
+                "page": "faq/perguntas-frequentes",
+                "label": "Perguntas Frequentes"
+              }
             ]
           }
         ]

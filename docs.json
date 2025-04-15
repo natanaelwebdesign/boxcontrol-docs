@@ -2,8 +2,9 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "BoxControl",
+  "landingPage": "essentials/entenda-o-que-e-o-boxcontrol",
   "colors": {
-    "primary": "#F5B93F",
+    "primary": "#F4D03F",
     "light": "#F7D146",
     "dark": "#292929"
   },
@@ -23,26 +24,10 @@
           {
             "group": "Módulos Essenciais",
             "pages": [
-              {
-                "page": "essentials/modulos/clientes",
-                "label": "Clientes",
-                "icon": "users"
-              },
-              {
-                "page": "essentials/modulos/produtos",
-                "label": "Produtos",
-                "icon": "package"
-              },
-              {
-                "page": "essentials/modulos/creditos",
-                "label": "Créditos",
-                "icon": "dollar-sign"
-              },
-              {
-                "page": "essentials/modulos/loja",
-                "label": "Loja",
-                "icon": "shopping-cart"
-              }
+              "essentials/modulos/clientes",
+              "essentials/modulos/produtos",
+              "essentials/modulos/creditos",
+              "essentials/modulos/loja"
             ]
           }
         ]
@@ -53,7 +38,7 @@
           {
             "group": "Perguntas Frequentes",
             "pages": [
-              "essentials/faq/perguntas-frequentes"
+              "faq/perguntas-frequentes"
             ]
           }
         ]

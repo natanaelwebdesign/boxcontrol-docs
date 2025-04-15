@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "BoxControl",
-  "landingPage": "essentials/entenda-o-que-e-o-boxcontrol",
+  "landingPage": "essentials/introducao",
   "colors": {
     "primary": "#F4D03F",
     "light": "#F7D146",
@@ -18,11 +18,11 @@
             "group": "Comece por aqui",
             "pages": [
               {
-                "page": "essentials/entenda-o-que-e-o-boxcontrol",
+                "page": "essentials/introducao",
                 "label": "Entenda o que é o BoxControl"
               },
               {
-                "page": "essentials/navegacao-geral-do-sistema",
+                "page": "essentials/navegacao",
                 "label": "Navegação Geral"
               }
             ]

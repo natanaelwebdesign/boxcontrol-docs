@@ -14,11 +14,11 @@
         "tab": "Guia",
         "groups": [
           {
-            "group": "Clientes TESTE",
+            "group": "teste isolado",
             "pages": [
               {
-                "page": "essentials/modulos/clientes",
-                "label": "Clientes TESTE"
+                "page": "essentials/teste",
+                "label": "página de teste"
               }
             ]
           }

@@ -19,6 +19,31 @@
               "essentials/entenda-o-que-e-o-boxcontrol",
               "essentials/navegacao-geral-do-sistema"
             ]
+          },
+          {
+            "group": "Módulos Essenciais",
+            "pages": [
+              {
+                "page": "essentials/clientes",
+                "label": "Clientes",
+                "icon": "users"
+              },
+              {
+                "page": "essentials/produtos",
+                "label": "Produtos",
+                "icon": "package"
+              },
+              {
+                "page": "essentials/creditos",
+                "label": "Créditos",
+                "icon": "dollar-sign"
+              },
+              {
+                "page": "essentials/loja",
+                "label": "Loja",
+                "icon": "shopping-cart"
+              }
+            ]
           }
         ]
       }

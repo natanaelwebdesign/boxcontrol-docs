@@ -8,22 +8,63 @@
     "dark": "#292929"
   },
   "favicon": "/favicon.png",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guia",
-        "groups": [
-          {
-            "group": "Documentação",
-            "pages": [
-              "essentials/introducao1",
-              "essentials/navegacao1"
-            ]
-          }
-        ]
-      }
-    ]
-  },
+ "navigation": {
+  "tabs": [
+    {
+      "tab": "Guia",
+      "groups": [
+        {
+          "group": "Documentação",
+          "pages": [
+            {
+              "page": "essentials/introducao1",
+              "label": "Entenda o que é o BoxControl"
+            },
+            {
+              "page": "essentials/navegacao1",
+              "label": "Navegação Geral"
+            }
+          ]
+        },
+        {
+          "group": "Módulos Essenciais",
+          "pages": [
+            {
+              "page": "essentials/modulos/clientes",
+              "label": "Clientes"
+            },
+            {
+              "page": "essentials/modulos/produtos",
+              "label": "Produtos"
+            },
+            {
+              "page": "essentials/modulos/creditos",
+              "label": "Créditos"
+            },
+            {
+              "page": "essentials/modulos/loja",
+              "label": "Loja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Tire suas dúvidas",
+      "groups": [
+        {
+          "group": "Perguntas Frequentes",
+          "pages": [
+            {
+              "page": "essentials/faq/perguntas-frequentes",
+              "label": "Perguntas Frequentes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
   "logo": {
     "light": "/logo/light.png",
     "dark": "/logo/light.png"

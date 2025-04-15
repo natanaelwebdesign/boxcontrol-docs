@@ -8,6 +8,22 @@
     "dark": "#292929"
   },
   "favicon": "/favicon.png",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guia",
+        "groups": [
+          {
+            "group": "Documentação",
+            "pages": [
+              "essentials/introducao1",
+              "essentials/navegacao1"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "logo": {
     "light": "/logo/light.png",
     "dark": "/logo/light.png"

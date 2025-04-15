@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "BoxControl",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#F5B93F",
+    "light": "#F7D146",
+    "dark": "#292929"
   },
   "favicon": "/favicon.svg",
   "navigation": {

@@ -19,27 +19,6 @@
               "essentials/introducao1",
               "essentials/navegacao1"
             ]
-          },
-          {
-            "group": "Módulos Essenciais",
-            "pages": [
-              {
-                "page": "essentials/modulos/clientes",
-                "label": "Clientes"
-              },
-              {
-                "page": "essentials/modulos/produtos",
-                "label": "Produtos"
-              },
-              {
-                "page": "essentials/modulos/creditos",
-                "label": "Créditos"
-              },
-              {
-                "page": "essentials/modulos/loja",
-                "label": "Loja"
-              }
-            ]
           }
         ]
       }

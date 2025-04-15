@@ -21,15 +21,32 @@
               "essentials/navegacao-geral-do-sistema"
             ]
           },
-          {
-            "group": "Módulos Essenciais",
-            "pages": [
-              "essentials/modulos/clientes",
-              "essentials/modulos/produtos",
-              "essentials/modulos/creditos",
-              "essentials/modulos/loja"
-            ]
-          }
+         {
+  "group": "Módulos Essenciais",
+  "pages": [
+    {
+      "page": "essentials/modulos/clientes",
+      "label": "Clientes",
+      "icon": "users"
+    },
+    {
+      "page": "essentials/modulos/produtos",
+      "label": "Produtos",
+      "icon": "package"
+    },
+    {
+      "page": "essentials/modulos/creditos",
+      "label": "Créditos",
+      "icon": "wallet"
+    },
+    {
+      "page": "essentials/modulos/loja",
+      "label": "Loja",
+      "icon": "shopping-cart"
+    }
+  ]
+}
+
         ]
       },
       {

@@ -1,0 +1,100 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Documentação BoxControl",
+  "colors": {
+    "primary": "#F4D03F",
+    "light": "#F7D146",
+    "dark": "#292929"
+  },
+  "favicon": "/favicon.png",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guia",
+        "groups": [
+          {
+            "group": "Comece por Aqui",
+            "pages": [
+              "bem-vinda",
+              "primeiros-passos"
+            ]
+          },
+          {
+            "group": "Módulos Essenciais",
+            "pages": [
+              "essentials/clientes",
+              "essentials/produtos",
+              "essentials/creditos",
+              "essentials/loja",
+              "essentials/grupo-compras",
+              "essentials/app-cliente"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tire suas Dúvidas",
+        "groups": [
+          {
+            "group": "Perguntas Frequentes",
+            "pages": [
+              "faq/perguntas-frequentes"
+            ]
+          },
+          {
+            "group": "Planos da BoxControl",
+            "pages": [
+              "faq/planos/visao-geral",
+              "faq/planos/plano-grupo-de-compras",
+              "faq/planos/plano-pequeno",
+              "faq/planos/plano-medio",
+              "faq/planos/plano-grande"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Dashboard",
+          "href": "https://boxcontrol.ideainfo.com.br/",
+          "icon": "gauge"
+        },
+        {
+          "anchor": "Central",
+          "href": "https://boxcontrol.ideainfo.com.br/",
+          "icon": "circle-question"
+        },
+        {
+          "anchor": "Guia do Cliente",
+          "href": "https://boxcontrol.ideainfo.com.br/",
+          "icon": "book-open"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://app.ideainfo.com.br/index.php?app=boxcontrol"
+    }
+  },
+  "footer": {
+    "socials": {
+      "instagram": "https://www.instagram.com/boxcontrol_/"
+    }
+  }
+}
